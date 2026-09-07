@@ -15,12 +15,6 @@
 
 <br/>
 
-> 🏆 **Domain Winners** — GLITCHCON 2.0 · National Hackathon at vellore institute of technology
-> HackerRank × MellonAI × Kathir Memorial Hospital × Arpina Solutions
-> **March 9–10, 2026 · MG Auditorium, VIT**
-
-<br/>
-
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-0064b0?style=for-the-badge&logo=meta&logoColor=white)](https://faiss.ai/)
@@ -31,16 +25,13 @@
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20ClinSight-00c853?style=for-the-badge)](https://lnkd.in/gYH92mzC)
-[![GitHub Repo](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-Source%20Code-24292e?style=for-the-badge&logo=github)](https://lnkd.in/gXkV47Ef)
+[![GitHub Repo](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-Source%20Code-24292e?style=for-the-badge&logo=github)](https://github.com/Void-Anvesha/ClinSight-AI)
 
 <br/>
 
 </div>
 
 ---
-
-
-
 
 ## 🧬 What is ClinSight AI?
 
@@ -51,29 +42,6 @@
 In busy hospital environments, a physician may manage hundreds of patients daily — each with dense, fragmented histories buried across case sheets, visit logs, lab reports, and prescription records. ClinSight deploys a **multi-agent AI pipeline** that automatically analyzes patient history, detects clinical risks, and generates a **60-second clinical brief** before the doctor even begins.
 
 This isn't another AI chatbot. It's an **orchestrated clinical intelligence layer** — purpose-built for healthcare.
-
----
-
-## 🏆 Recognition
-
-<table>
-  <tr>
-    <td><b>Event</b></td>
-    <td>GLITCHCON 2.0 — National-Level Hackathon</td>
-  </tr>
-  <tr>
-    <td><b>Result</b></td>
-    <td>🥇 Domain Winners</td>
-  </tr>
-  <tr>
-    <td><b>Organized by</b></td>
-    <td>HackerRank · MellonAI · Kathir Memorial Hospital · Arpina Solutions · WeLe · BITUMEN · ECDS · VITAA</td>
-  </tr>
-  <tr>
-    <td><b>Venue & Date</b></td>
-    <td>MG Auditorium, VIT — March 9–10, 2026</td>
-  </tr>
-</table>
 
 ---
 
@@ -199,8 +167,8 @@ flowchart TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shreyashgautam/clinsight-ai.git
-cd clinsight-ai
+git clone https://github.com/Void-Anvesha/ClinSight-AI.git
+cd ClinSight-AI
 ```
 
 ### 2. Create a Virtual Environment
@@ -317,8 +285,6 @@ clinsight-ai/
 
 ## 👥 Team
 
-Built over 48 hours at VIT by **Team Fanatics** 🔥
-
 <table>
   <tr>
     <td align="center"><b>Dipsita Rout</b><br/><a href="https://www.linkedin.com/in/dipsita-rout/">LinkedIn ↗</a></td>
@@ -356,17 +322,16 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <br/>
 
-**Built in 48 hours to make clinical intelligence accessible to every doctor.**
-
-*ClinSight AI — Domain Winners, GLITCHCON 2.0 · VIT · March 2026*
+**Making clinical intelligence accessible to every doctor.**
 
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-clinsight.ai-00c853?style=for-the-badge)](https://lnkd.in/gYH92mzC)
-[![GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-Source%20Code-24292e?style=for-the-badge&logo=github)](https://lnkd.in/gXkV47Ef)
+[![GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-Source%20Code-24292e?style=for-the-badge&logo=github)](https://github.com/Void-Anvesha/ClinSight-AI)
 
 <br/>
 
 *If ClinSight AI helps your workflow, give it a ⭐ on GitHub — it helps other clinicians and developers find the project.*
 
 </div>
+
