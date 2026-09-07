@@ -283,20 +283,6 @@ clinsight-ai/
 
 ---
 
-## 👥 Team
-
-<table>
-  <tr>
-    <td align="center"><b>Dipsita Rout</b><br/><a href="https://www.linkedin.com/in/dipsita-rout/">LinkedIn ↗</a></td>
-    <td align="center"><b>Meghna Mandawra</b><br/><a href="https://www.linkedin.com/in/meghna-mandawra-b4083228b/">LinkedIn ↗</a></td>
-    <td align="center"><b>Riddhi Arora</b><br/><a href="https://www.linkedin.com/in/itsriddhiarora/">LinkedIn ↗</a></td>
-    <td align="center"><b>Shreeya Kollipara</b><br/><a href="https://www.linkedin.com/in/shreeya-kollipara-47a42128b/">LinkedIn ↗</a></td>
-    <td align="center"><b>Shreyash Gautam</b><br/><a href="https://www.linkedin.com/in/shreyash-gautam/">LinkedIn ↗</a></td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Future Roadmap
 
 - [ ] 🌐 **Multi-language Support** — Hindi, Tamil, and other regional languages
@@ -334,4 +320,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 *If ClinSight AI helps your workflow, give it a ⭐ on GitHub — it helps other clinicians and developers find the project.*
 
 </div>
-
