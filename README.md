@@ -63,7 +63,7 @@ In busy clinical environments, doctors routinely manage hundreds of patients —
 
 ## 💡 Solution Overview
 
-**ClinSight AI** bridges this gap by deploying a **multi-agent AI infrastructure** over patient medical records. Doctors query the system in plain English — by name, disease, or symptom — and receive a fully structured clinical brief in under 60 seconds.
+**ClinSighft AI** bridges this gap by deploying a **multi-agent AI infrastructure** over patient medical records. Doctors query the system in plain English — by name, disease, or symptom — and receive a fully structured clinical brief in under 60 seconds.
 
 The platform uses **Retrieval-Augmented Generation (RAG)**: patient records are embedded as semantic vectors, stored in a FAISS index, and retrieved via similarity search. A pipeline of **7 specialized agents** then handles analysis, triage, OCR ingestion, drug interaction detection, second-opinion generation, and more — all grounded in real patient data.
 
